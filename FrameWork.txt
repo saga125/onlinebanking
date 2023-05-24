@@ -1,0 +1,10 @@
+
+1. Test Data 
+2. HTML Report
+3. POM/Object Repository
+4. Common Utils
+5. Test Scripts
+6. TestNG/driver/XML file
+7. Screen Shots
+8. Maven(pom.xml)
+9. Jenkins
